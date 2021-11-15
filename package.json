@@ -1,5 +1,22 @@
 {
+  "name": "group-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iTalantaAcademy-kakuma-1/GROUP-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iTalantaAcademy-kakuma-1/GROUP-4/issues"
+  },
+  "homepage": "https://github.com/iTalantaAcademy-kakuma-1/GROUP-4#readme",
   "dependencies": {
-    "npm-run": "^5.0.1"
+    "express": "^4.17.1"
   }
 }
