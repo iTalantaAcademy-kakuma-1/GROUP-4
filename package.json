@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/iTalantaAcademy-kakuma-1/GROUP-4#readme",
   "dependencies": {
+    "cloudinary": "^1.27.1",
     "express": "^4.17.1"
   }
 }
